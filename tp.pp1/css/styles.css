@@ -1,0 +1,11 @@
+/* ==========================================================================
+   DeliStock - Archivo Maestro de Estilos
+   Organizado en módulos para facilitar su lectura y mantenimiento:
+   - base.css: Estructura general, variables y navbar
+   - componentes.css: Botones, tablas, modales y avisos
+   - vistas.css: Pantallas de Login, Menú, Productos y Ventas
+   ========================================================================== */
+
+@import url('base.css');
+@import url('componentes.css');
+@import url('vistas.css');
